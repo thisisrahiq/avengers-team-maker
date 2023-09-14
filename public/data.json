@@ -1,0 +1,170 @@
+[
+    {
+      "id": "1",
+      "name": "Tony Stark",
+      "age": 40,
+      "role": "Iron Man",
+      "image": "https://i.ibb.co/K6xLPqH/Iron-Man-Endgame-Profile.webp",
+      "salary": 10000000,
+      "country": "United States",
+      "fbUrl": "https://www.facebook.com/tonystark",
+      "twitter": "@IronMan"
+    },
+    {
+      "id": "2",
+      "name": "Steve Rogers",
+      "age": 100,
+      "role": "Captain America",
+      "image": "https://i.ibb.co/RhBPRbj/8c728887d7c844984d7786148dd2ad5b.jpg",
+      "salary": 8000000,
+      "country": "United States",
+      "fbUrl": "https://www.facebook.com/captainamerica",
+      "twitter": "@CaptainAmerica"
+    },
+    {
+      "id": "3",
+      "name": "Natasha Romanoff",
+      "age": 35,
+      "role": "Black Widow",
+      "image": "https://i.ibb.co/hWDT1kh/132566.jpg",
+      "salary": 7000000,
+      "country": "Russia",
+      "fbUrl": "https://www.facebook.com/blackwidow",
+      "twitter": "@BlackWidow"
+    },
+    {
+      "id": "4",
+      "name": "Bruce Banner",
+      "age": 45,
+      "role": "Hulk",
+      "image": "https://i.ibb.co/M714j6k/b8616758bfafce6d68708c60546e37d0.jpg",
+      "salary": 9000000,
+      "country": "United States",
+      "fbUrl": "https://www.facebook.com/hulk",
+      "twitter": "@Hulk"
+    },
+    {
+      "id": "5",
+      "name": "Thor Odinson",
+      "age": 1500,
+      "role": "Thor",
+      "image": "https://i.ibb.co/X5v2R1R/1e7c266f4a3148478ed571f1a6558a65.png",
+      "salary": 11000000,
+      "country": "Asgard",
+      "fbUrl": "https://www.facebook.com/thor",
+      "twitter": "@Thor"
+    },
+    {
+        "id": "6",
+        "name": "Peter Parker",
+        "age": 20,
+        "role": "Spider-Man",
+        "image": "https://i.ibb.co/dJG8xFD/210992.jpg",
+        "salary": 6000000,
+        "country": "United States",
+        "fbUrl": "https://www.facebook.com/spiderman",
+        "twitter": "@SpiderMan"
+      },
+      {
+        "id": "7",
+        "name": "Wanda Maximoff",
+        "age": 30,
+        "role": "Scarlet Witch",
+        "image": "https://i.ibb.co/T8nj8M2/thumb-293227.jpg",
+        "salary": 7500000,
+        "country": "Sokovia",
+        "fbUrl": "https://www.facebook.com/scarletwitch",
+        "twitter": "@ScarletWitch"
+      },
+      {
+        "id": "8",
+        "name": "Clint Barton",
+        "age": 45,
+        "role": "Hawkeye",
+        "image": "https://i.ibb.co/9vmFkGv/6213832e575e6b9968c4cc0f211b6cf2.jpg",
+        "salary": 7000000,
+        "country": "United States",
+        "fbUrl": "https://www.facebook.com/hawkeye",
+        "twitter": "@Hawkeye"
+      },
+      {
+        "id": "9",
+        "name": "Carol Danvers",
+        "age": 35,
+        "role": "Captain Marvel",
+        "image": "https://i.ibb.co/DpnJCTS/064d23f4757a902d20b16a63bb434163.jpg",
+        "salary": 8500000,
+        "country": "United States",
+        "fbUrl": "https://www.facebook.com/captainmarvel",
+        "twitter": "@CaptainMarvel"
+      },
+      {
+        "id": "10",
+        "name": "T'Challa",
+        "age": 35,
+        "role": "Black Panther",
+        "image": "https://i.ibb.co/NCpp0dn/903a19ad57334f2b8364a14094fabb34.png",
+        "salary": 9000000,
+        "country": "Wakanda",
+        "fbUrl": "https://www.facebook.com/blackpanther",
+        "twitter": "@BlackPanther"
+      },
+      {
+        "id": "11",
+        "name": "Scott Lang",
+        "age": 40,
+        "role": "Ant-Man",
+        "image": "https://i.ibb.co/gVgwCpg/53234f182e3a6d8eb73d909985bb2fdc.jpg",
+        "salary": 6500000,
+        "country": "United States",
+        "fbUrl": "https://www.facebook.com/antman",
+        "twitter": "@AntMan"
+      },
+      {
+        "id": "12",
+        "name": "Vision",
+        "age": 3,
+        "role": "Vision",
+        "image": "https://i.ibb.co/8BTJM9c/download.jpg",
+        "salary": 8000000,
+        "country": "Unknown",
+        "fbUrl": "https://www.facebook.com/vision",
+        "twitter": "@Vision"
+      },
+      {
+        "id": "13",
+        "name": "Sam Wilson",
+        "age": 35,
+        "role": "Falcon",
+        "image": "https://i.ibb.co/DWDpbKN/mackie-sam-captain-america-1265885.jpg",
+        "salary": 7000000,
+        "country": "United States",
+        "fbUrl": "https://www.facebook.com/falcon",
+        "twitter": "@Falcon"
+      },
+      {
+        "id": "14",
+        "name": "Bucky Barnes",
+        "age": 35,
+        "role": "Winter Soldier",
+        "image": "https://i.ibb.co/7QHM9j5/58b40ed0390bf9af62c5a7d2ec18d9bf.jpg",
+        "salary": 7500000,
+        "country": "United States",
+        "fbUrl": "https://www.facebook.com/wintersoldier",
+        "twitter": "@WinterSoldier"
+      },
+      {
+        "id": "15",
+        "name": "Nebula",
+        "age": 30,
+        "role": "Nebula",
+        "image": "https://i.ibb.co/J52W7MZ/online-char-avengehonor-series-nebula-v1-lg-1.jpg",
+        "salary": 6500000,
+        "country": "Unknown",
+        "fbUrl": "https://www.facebook.com/nebula",
+        "twitter": "@Nebula"
+      }
+
+
+  ]
+  

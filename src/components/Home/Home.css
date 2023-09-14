@@ -1,0 +1,42 @@
+body{
+    background-image: url('https://i.ibb.co/0Q5K1dp/marvels-avengers-background-01-ps4-24jan19-en-us-0.webp'),
+    linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6));
+
+    background-repeat: no-repeat;
+    background-blend-mode: overlay;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.card{
+    width: 250px;
+    height: 390px;
+    border: 1px solid gray;
+}
+
+.photo{
+    width: 80px;
+    height: 80px;
+    border-radius: 50px;
+    border: 1px solid rgb(107, 113, 234);
+    
+}
+.info{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.card-btn{
+    background-color: aqua;
+}
+
+.home-container{
+    display: flex;
+}
+
+.card-container{
+    width: 600px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+}
